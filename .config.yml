@@ -1,0 +1,24 @@
+username: '138238xxxxx'
+
+password: '12345678'
+
+# 演唱会详情页面URL
+ticket_url: 'https://m.damai.cn/shows/item.html?itemId=766451728078&spm=a2o71.broadlist.list.d1.12ddb966zDnYUe'
+
+# 购买哪个站点
+ticket_site: "深圳站"
+
+# 场次日期
+ticket_date: "2024-03-09"
+
+# 票档
+ticket_grade: "看台980元"
+
+# 购买数量
+ticket_num: 1
+
+# 实名人名字, 没有相同姓氏只写姓即可，否则写完整姓名. 实名人数量需要与购票数量一致
+real_names:
+  - 李
+
+
